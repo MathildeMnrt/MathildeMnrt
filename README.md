@@ -8,9 +8,9 @@ to design and create digital experiences for you ✨ </h4>
 <div>
     <h2 align="center">☎️ you can reach me by</h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/mathilde-menoret-6496711a8/" target="blank"><img align="center"
+<!--       <a href="https://www.linkedin.com/in/mathilde-menoret-6496711a8/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="mathildemnrt" height="30"/></a>
+         alt="mathildemnrt" height="30"/></a> -->
       <a href="mailto:mathilde.menoret.ultra@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="mathildemnrt" height="30"/></a>
