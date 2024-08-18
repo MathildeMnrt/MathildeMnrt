@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center" style="{ border-bottom: 0; }">Hi, I'm Mathilde</h1>
-<h4 align="center">a product-oriented freelance developer here <br>
-to design and create digital experiences for you ✨ </h4>
+<h4 align="center">A Product-Oriented Enthusiast Who Loves <br>
+to Design and Create Digital Experiences ✨</h4>
 </div>
 
 
